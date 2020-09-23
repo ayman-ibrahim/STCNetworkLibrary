@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'STCNetworkLibrary_Example' do
+  pod 'STCNetworkLibrary', :path => '../'
+
+  target 'STCNetworkLibrary_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
