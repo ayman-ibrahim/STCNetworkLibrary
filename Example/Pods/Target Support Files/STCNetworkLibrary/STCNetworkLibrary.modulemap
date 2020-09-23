@@ -1,0 +1,6 @@
+framework module STCNetworkLibrary {
+  umbrella header "STCNetworkLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

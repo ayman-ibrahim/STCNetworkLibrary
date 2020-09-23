@@ -1,0 +1,16 @@
+PODS:
+  - STCNetworkLibrary (0.1.0)
+
+DEPENDENCIES:
+  - STCNetworkLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  STCNetworkLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  STCNetworkLibrary: 43535d9719d6665f4c79b203d73b4396d6073da0
+
+PODFILE CHECKSUM: 22921a2e804514f27b593e7816bf59aa3c5757aa
+
+COCOAPODS: 1.9.1

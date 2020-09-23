@@ -1,0 +1,22 @@
+{
+  "name": "STCNetworkLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of STCNetworkLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ayman-ibrahim/STCNetworkLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ayman-ibrahim": "ayman.ibrahim.alim@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ayman-ibrahim/STCNetworkLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "STCNetworkLibrary/Classes/**/*"
+}
