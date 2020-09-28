@@ -1,7 +1,7 @@
 use_frameworks!
 
 target 'STCNetworkLibrary_Example' do
-  pod 'STCNetworkLibrary', :path => '../'
+  pod 'STCNetworkLibrary'#, :path => '../'
 
 
 end
